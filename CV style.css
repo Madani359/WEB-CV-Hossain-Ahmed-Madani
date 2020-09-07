@@ -1,0 +1,122 @@
+*{margin:0;padding:0;}
+body{
+	background:black;
+}
+
+
+.contianer{
+	width:1170px;
+	margin:auto;
+	display:block;
+	overflow:hidden;
+}	
+
+.left{
+	float:left;
+	text-align:center;
+	padding:20px;
+	padding-left:0px;
+	padding-right:0px;
+	width:20%;
+	float:left;
+	background:#404042;
+	display:block;
+	overflow:hidden;
+	font-family:lato;
+	color:#FFFFFF;
+}
+
+.avatar{
+	padding:15px;
+}
+.avatar img{
+	border-radius:50%;
+	width:70%;
+	border:5px solid #32BDFE;
+	
+	
+}
+
+.profile_name{
+	
+}
+
+.profile-name h2{
+	
+	display:block;
+	overflow:hidden;
+	letter-spacing:30%;
+	}
+
+.my-title h4{
+	padding:10px;
+	color:#33BDFE;
+}
+
+.info{
+	
+	
+	padding:5px;
+	background:#ffff;
+	color:#32BFF4;
+	margin-left:5px;
+	margin-right:5px;
+	display:block;
+	overflow:hidden;
+}
+.info h3{
+	
+}
+
+.about_me{
+	
+	padding:5px;
+	background:#ffff;
+	color:#32BFF4;
+	margin-left:5px;
+	margin-right:5px;
+	display:block;
+	overflow:hidden;
+	
+}
+.info_content{
+	padding:10px;
+	text-align:left;
+}
+
+.about{}
+.about p{
+	text-align:justify;
+	padding:20px;
+}
+
+.right{
+	width:80%;
+	padding-top:40px;
+	font-family:lato;
+	background:#B3BDC8;
+	float:right;
+	display:block;
+	overflow:hidden;
+	
+}
+.headers{
+	
+	
+	padding:10px;
+	color:#ffff;
+	text-align:center;
+	background:#32BFF4;
+	
+	
+}
+
+.contents{
+	padding:30px;
+	font-family:lato;
+	font-size:20px;
+	background:#B3BDC8;
+	text-align:justify;
+}
+	
+
